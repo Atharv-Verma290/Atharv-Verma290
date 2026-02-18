@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm a Data & ML Enthusiast who love trying to solve data-driven problems using machine learning and AI.
-
+I'm a **Machine Learning & Data Science** professional focused on building predictive systems that solve real-world data-driven problems.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atharv-verma-042336244) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atharv.verma29k@gmail.com) 
